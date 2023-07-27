@@ -37,10 +37,5 @@ The OpenStreetMap platform allows users worldwide to collaboratively create and 
    - Successes and implications of our project for transportation forecasting and optimization.
    - The potential of GNNs for road network analysis and future research directions.
 
-## Citations
-
-[1] Jepsen, T. S., Jensen, C. S., & Nielsen, T. D. (2020). Relational Fusion Networks: Graph Convolutional Networks for Road Networks.
-
-[2] Jepsen, T. S., Jensen, C. S., & Nielsen, T. D. (2019). On Network Embedding for Machine Learning on Road Networks: A Case Study on the Danish Road Network.
 
 Our project combines cutting-edge graph machine learning techniques with the real-world data of Ljubljana's road network. The insights gained have the potential to revolutionize transportation planning and create safer, more efficient cities. Further research and larger datasets will continue to drive advancements in this exciting field.
