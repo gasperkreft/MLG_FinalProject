@@ -7,7 +7,8 @@ This is the final project for the Machine Learning on Graphs course done in coll
 The OpenStreetMap platform allows users worldwide to collaboratively create and update road network maps. However, with contributions from various sources, errors and missing data can occur, leading to unreliable information, especially in areas with limited coverage. Our project addresses these challenges by leveraging Graph Neural Networks (GNNs) to analyze the road network and predict unknown features.
 
 <div>
-  <img src="pictures/actual.png" width="300" />
+  <img src="pictures/actual.png" width="500" />
+  <img src="pictures/predicted_gat.png" width="500" />
 </div>
 
 ## Project Structure
