@@ -1,6 +1,6 @@
 # Project Summary: Graph Machine Learning for Road Network Analysis
 
-This is the final project for the Machine Learning on Graphs course done in collaboration with Jovana Videnović and Jaša Žnidar. For a detailed analysis of our project check out this [blog](https://medium.com/@jz6042/ac09a20294bf) or [notebook](https://github.com/gasperkreft/MLG_FinalProject/blob/main/ProjectMLG.ipynb)
+This is the final project for the Machine Learning on Graphs course done in collaboration with Jovana Videnović and Jaša Žnidar. For a more detailed report of our project check out this [blog](https://medium.com/@jz6042/ac09a20294bf) or [notebook](https://github.com/gasperkreft/MLG_FinalProject/blob/main/ProjectMLG.ipynb)
 
 ## Introduction
 
