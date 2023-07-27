@@ -11,6 +11,8 @@ The OpenStreetMap platform allows users worldwide to collaboratively create and 
   <img src="pictures/predicted_gat.png" width="300" />
 </div>
 
+On the left picture you can see actual speed limits in center district of Ljubljana and on the right the predicted ones.
+
 ## Project Structure
 
 1. **What is OpenStreetMap, and What We Did with It?**
